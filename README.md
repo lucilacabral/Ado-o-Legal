@@ -11,7 +11,9 @@ Além desta dela de início, onde se cadastra os animais para verificar a situa�
 
 ![Inicio](imagens_projetoNovo/estatisticas.png)
 
-MANUAL DO USUÁRIO
+MANUAL DO USUÁRIO\n
+
+
 Para começar a usar a aplicação basta inserir os dados do animal. Primeiro qual é animal, se é cachorro, gato ou qualquer outro tipo. Em seguida, é só digitar o nome, a idade, selecionar se ele foi vacinado e se foi castrado. Dessa forma, se o animal tiver sido castrado, ele estará pronto para ser adotado. 
 Por exemplo, vamos adicionar um gato à nossa tabela: 
 
@@ -25,7 +27,7 @@ Podemos adicionar quantos aninmais quisermos, e depois podemos ordená-los pelo 
 Após clicar neste botão de ordenação, por tipo de animal, eles vão ser organizados em ordem alfabética. Também podemos ordená-los pelo nome, também ordem alfabética, clicando no botão “Ordenar Por Nome”. 
 Outra função da aplicação é que o usuário pode salvar a tabela de animais em um arquivo e pode carregá-la novamente na aplicação. Para salvar a tabela,  é necessário clicar em “Salvar Animais” e criar um arquivo .txt clicando o botão direito do mouse. Para carregar a tabela, basta clicar em “Carregar Animais” e selecionar o arquivo .txt que deseja.
 
-![Inicio](imagens_projetoNovo/arquivo.png)
+![Inicio](imagens_projetoNovo/arquivos.png)
 
 Se o usuário errar o algo que foi digitado na hora do cadastro do animal, é simples para trocar, basta clicar duas vezes no item que deseja editar, e pronto, irá aparece uma mensagem perguntando se deseja mesmo alterar o item selecionado e poderá alterar. 
 
